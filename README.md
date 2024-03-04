@@ -1,0 +1,3 @@
+##  AICTE ACTIVITY DATABASE MANAGEMENT SYSTEM
+
+DETAILED REPORT[link](https://github.com/ashishbr/DBMS_MP_FINAL/blob/main/DBMS_FINAL_REPORT.pdf)
